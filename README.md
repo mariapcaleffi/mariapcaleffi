@@ -21,9 +21,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariapcaleffi&theme=dracula" alt="GitHub Streaks">
 </p>
 
-<!-- Botão Letterboxd -->
+<!-- Botões Letterboxd e Spotify -->
 <p align="center">
   <a href="https://boxd.it/453Gr" target="_blank">
     <img src="https://img.shields.io/badge/Letterboxd-1F305F?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd">
+  </a>
+  <a href="(https://open.spotify.com/user/v9wj1gbjyu4kn8i8we1tj29vt?si=tWAVQtSvQSS7RmIAM9KIOw)" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
 </p>

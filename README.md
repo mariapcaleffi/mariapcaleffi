@@ -23,5 +23,5 @@
 </p>
 <p>
 <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg&theme=dracula"/>
+    src="https://profile-counter.glitch.me/mariapcaleffi/count.svg&theme=dracula"/>
 </p>

@@ -1,9 +1,23 @@
-# Maria Caleffi ⭐
+<!-- Name -->
+<p align="center">
+  <strong style="font-size: 24px;">Welcome!</strong>
+</p>
 
-(https://github-readme-stats.vercel.app/api?username=mariapcaleffi&show_icons=true&theme=dark)
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mariapcaleffis&theme=tokyonight&show_icons=true" alt="GitHub Stats" style="max-width: 300px; border: 2px solid #000000; border-radius: 10px; margin: 10px;">
 
-(https://github-readme-streak-stats.herokuapp.com/?user=mariapcaleffi&theme=dark)
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariapcaleffi&theme=tokyonight" alt="Top Languages" style="max-width: 300px; border: 2px solid #000000; border-radius: 10px; margin: 10px;">
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=mariapcaleffi&layout=compact&theme=dark)
+  <!-- GitHub Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariapcaleffi&theme=tokyonight" alt="GitHub Streaks" style="max-width: 300px; border: 2px solid #000000; border-radius: 10px; margin: 10px;">
+</p>
 
-(https://img.shields.io/badge/Letterboxd-Profile-green)]([https://letterboxd.com/](https://letterboxd.com/clarabow_/))
+<!-- Buttons for Letterboxd and Spotify -->
+<p align="center">
+  <a href="https://boxd.it/453Gr" target="_blank">
+    <img src="https://img.shields.io/badge/Letterboxd-1F305F?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd">
+  </a>
+
+</p>

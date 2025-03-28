@@ -1,27 +1,29 @@
-<!-- Name -->
 <p align="center">
   <strong style="font-size: 24px;">Welcome!</strong>
 </p>
 
+<!-- Tabela para alinhar os elementos -->
+<table align="center">
+  <tr>
+    <td>
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=mariapcaleffi&theme=dracula&show_icons=true" alt="GitHub Stats">
+    </td>
+    <td>
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariapcaleffi&theme=dracula" alt="Top Languages">
+    </td>
+  </tr>
+</table>
+
+<!-- GitHub Streaks -->
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mariapcaleffi&theme=dracula&show_icons=true" alt="GitHub Stats" style="max-width: 300px; border: 2px solid #000000; border-radius: 10px; margin: 10px;">
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariapcaleffi&theme=dracula" alt="Top Languages" style="max-width: 300px; border: 2px solid #000000; border-radius: 10px; margin: 10px;">
-
-  <!-- GitHub Streaks -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariapcaleffi&theme=dracula" alt="GitHub Streaks" style="max-width: 300px; border: 2px solid #000000; border-radius: 10px; margin: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariapcaleffi&theme=dracula" alt="GitHub Streaks">
 </p>
 
-<!-- Buttons for Letterboxd and Spotify -->
+<!-- Botão Letterboxd -->
 <p align="center">
   <a href="https://boxd.it/453Gr" target="_blank">
     <img src="https://img.shields.io/badge/Letterboxd-1F305F?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd">
   </a>
-
-</p>
-<p>
-<img
-    src="https://profile-counter.glitch.me/mariapcaleffi/count.svg"/>
 </p>

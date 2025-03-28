@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mariapcaleffis&theme=tokyonight&show_icons=true" alt="GitHub Stats" style="max-width: 300px; border: 2px solid #000000; border-radius: 10px; margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariapcaleffi&theme=tokyonight&show_icons=true" alt="GitHub Stats" style="max-width: 300px; border: 2px solid #000000; border-radius: 10px; margin: 10px;">
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariapcaleffi&theme=tokyonight" alt="Top Languages" style="max-width: 300px; border: 2px solid #000000; border-radius: 10px; margin: 10px;">

@@ -21,3 +21,7 @@
   </a>
 
 </p>
+<p>
+<img
+    src="https://profile-counter.glitch.me/iuricode/count.svg&theme=dracula"/>
+</p>
